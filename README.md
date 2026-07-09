@@ -5,7 +5,10 @@
 - 📫 How to reach me: Thru my socials below<br>
 - 😄 Pronouns: he/him<br>
 - ⚡ Fun fact #1: Ado is my favorite artist of all-time<br>
-- ⚡ Fun fact #2: I’m the President of Association of Civil Engineering Students (ACES) – FEU Institute of Technology for the Academic Year 2025-2026. For 2026-2027, I’ll be stepping up as the Executive Student Consultant for the ACES 2026-2027 Officers.
+- ⚡ Fun fact #2: I’m the President of Association of Civil Engineering Students (ACES) – FEU Institute of Technology for the Academic Year 2025-2026. For 2026-2027, I’ll be stepping up as the Executive Student Consultant for the ACES 2026-2027 Officers.<br>
+- ⚡ Fun fact #3: I play video games such as Genshin Impact, Honkai Impact 3rd, Honkai: Star Rail, Zenless Zone Zero, Counter-Strike 2, Valorant, and more :) <br>
+- ⚡ Fun fact #4: I also watch animes since they give me the necessary chill that I need.<br>
+- ⚡ Fun fact #5: I LOVE Matcha and Japanese songs (especially J-Pop). TLDR: any Japan-related stuff, I really love it so much.<br>
 
 
 ## 🌐 Socials:
