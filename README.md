@@ -45,11 +45,98 @@
 
 ## 🏛️ Leadership
 
-```text
-Association of Civil Engineering Students (ACES) - FEU Institute of Technology
-|-- President, Academic Year 2025-2026
-`-- Executive Student Consultant, Academic Year 2026-2027
-```
+<table>
+<tr>
+<th align="left">Year</th>
+<th align="left">Organization</th>
+<th align="left">Role</th>
+</tr>
+<tr>
+<td>2026 - 2027</td>
+<td>FEU Tech Association of Civil Engineering Students</td>
+<td>Executive Student Consultant</td>
+</tr>
+<tr>
+<td>2025 - 2026</td>
+<td>FEU Tech Association of Civil Engineering Students</td>
+<td>President</td>
+</tr>
+<tr>
+<td>2025 - Present</td>
+<td>FEU Tech Association of Civil Engineering Students</td>
+<td>Director of Publicity</td>
+</tr>
+<tr>
+<td>2024 - 2025</td>
+<td>FEU Tech Association of Civil Engineering Students</td>
+<td>Junior Officer for Publicity</td>
+</tr>
+<tr>
+<td>2024 - Present</td>
+<td>FEU Tech Student Coordinating Council</td>
+<td>Junior Officer for Publicity</td>
+</tr>
+<tr>
+<td>2024 - 2025</td>
+<td>FEU Tech Freshmen Society</td>
+<td>Interim Officer for Publicity</td>
+</tr>
+<tr>
+<td>2023 - 2024</td>
+<td>FEU Tech Freshmen Society</td>
+<td>Creatives Junior Officer</td>
+</tr>
+<tr>
+<td>2022 - 2023</td>
+<td>Society for the Advancement of Physics and Engineering (UE CAL)</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>2022 - 2023</td>
+<td>University of the East - Caloocan Campus Supreme Student Government Multimedia Committee</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>2022 - 2023</td>
+<td>Aspiring Leaders with Passionate and Authentic Service [ALPAS] Party Alliance</td>
+<td>Multimedia Editor</td>
+</tr>
+<tr>
+<td>2021 - 2022</td>
+<td>Math GLIP (UE CAL)</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>2020 - 2021</td>
+<td>Aspiring Leaders with Passionate and Authentic Service [ALPAS] Party Alliance</td>
+<td>Candidate for UE CAL - SSG Grade 11 Representative</td>
+</tr>
+<tr>
+<td>2020 - 2021</td>
+<td>Math Club (UE CAL)</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>2019 - 2020</td>
+<td>Mother Science Club (UE CAL)</td>
+<td>Grade 9 Representative</td>
+</tr>
+<tr>
+<td>2018 - 2019</td>
+<td>Computer and Information Technology Club</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>2017 - 2018</td>
+<td>Home Economics Club</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>2016 - 2017</td>
+<td>University of the East - Caloocan Campus Supreme Pupil Government</td>
+<td>Grade 6 Representative</td>
+</tr>
+</table>
 
 ## 🧰 Tech Stack
 
