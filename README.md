@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:14B8A6&text=Ace%20Aligora&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Civil%20Engineering%20Student%20%7C%20Student%20Leader%20%7C%20Frontend%20Builder&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Animated banner for Ace Aligora" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:14B8A6&text=Ace%20Aligora&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Civil%20Engineering%20Student%20%7C%20Student%20Leader%20&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Animated banner for Ace Aligora" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&random=false&width=900&lines=BS+Civil+Engineering+student+at+FEU+Tech;Building+the+FEU+Tech+ACES+Website;ACES+President+2025-2026;Executive+Student+Consultant+2026-2027;J-Pop%2C+matcha%2C+anime%2C+and+games+keep+me+powered" alt="Animated typing intro" />
 
