@@ -54,7 +54,7 @@
 <tr>
 <td>2026 - 2027</td>
 <td>FEU Tech Association of Civil Engineering Students</td>
-<td>Executive Student Consultant</td>
+<td>Executive Student Consultant/Adviser</td>
 </tr>
 <tr>
 <td>2025 - 2026</td>
